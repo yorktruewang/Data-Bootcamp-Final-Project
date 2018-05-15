@@ -4,5 +4,5 @@ And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description
+Project Description:
 This project looks at agricultural commodities like cotton and wheat and the relationship between their prices and their trading volume of their futures. In addition, it also looks to see whether changes in the global average temperature have any effect on the trading volumes of commodity futures, as one would expect the risk of climate change to be hedged against through futures contracts — which is the analyzed commodities are agricultural in nature.
